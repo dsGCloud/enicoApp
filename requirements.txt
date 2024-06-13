@@ -2,3 +2,10 @@ streamlit
 boto3
 Pillow
 python-dotenv
+opensearch-py
+requests-aws4auth
+fsspec
+s3fs
+matplotlib
+Pillow
+sagemaker
